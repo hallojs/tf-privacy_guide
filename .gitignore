@@ -1,0 +1,11 @@
+# macOS dust
+.DS_Store
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# plots
+/plots
+
+# python
+/__pycache__
