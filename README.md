@@ -1,4 +1,4 @@
-# nn_direct_mia
+# tf-privacy_guide
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hallojs/tf-privacy_guide/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hallojs/tf-privacy_guide/blob/master/tf1_keras_recap.ipynb)<sup>(1)</sup> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hallojs/tf-privacy_guide/blob/master/mnist_dpsgd.ipynb)<sup>(2)</sup>
 
 ## Notebooks
